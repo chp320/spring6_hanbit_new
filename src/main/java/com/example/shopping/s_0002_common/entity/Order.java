@@ -5,7 +5,7 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import com.example.shopping.enumeration.PaymentMethod;
+import com.example.shopping.s_0002_common.enumeration.PaymentMethod;
 
 @SuppressWarnings("serial")
 public class Order implements Serializable {
