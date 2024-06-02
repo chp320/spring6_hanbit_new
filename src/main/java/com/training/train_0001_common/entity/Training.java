@@ -1,4 +1,4 @@
-package org.training.train_0001_common.entity;
+package com.training.train_0001_common.entity;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
