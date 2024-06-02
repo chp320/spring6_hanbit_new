@@ -1,7 +1,7 @@
-package com.training.train_0301_di.service;
+package com.example.training.t_0301_di.service;
 
-import com.training.train_0001_common.entity.Training;
-import com.training.train_0301_di.repository.TrainingRepository;
+import com.example.training.t_0001_common.entity.Training;
+import com.example.training.t_0301_di.repository.TrainingRepository;
 
 import java.util.List;
 

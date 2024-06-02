@@ -1,10 +1,10 @@
-package com.training.train_0301_di;
+package com.example.training.t_0301_di;
 
-import com.training.train_0001_common.entity.Training;
-import com.training.train_0301_di.repository.JdbcTrainingRepository;
-import com.training.train_0301_di.repository.TrainingRepository;
-import com.training.train_0301_di.service.TrainingService;
-import com.training.train_0301_di.service.TrainingServiceImpl;
+import com.example.training.t_0301_di.repository.JdbcTrainingRepository;
+import com.example.training.t_0001_common.entity.Training;
+import com.example.training.t_0301_di.repository.TrainingRepository;
+import com.example.training.t_0301_di.service.TrainingService;
+import com.example.training.t_0301_di.service.TrainingServiceImpl;
 
 import java.util.List;
 

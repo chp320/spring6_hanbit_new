@@ -1,6 +1,6 @@
-package com.training.train_0301_di.repository;
+package com.example.training.t_0301_di.repository;
 
-import com.training.train_0001_common.entity.Training;
+import com.example.training.t_0001_common.entity.Training;
 
 import java.util.ArrayList;
 import java.util.List;
